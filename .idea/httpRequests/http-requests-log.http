@@ -1,0 +1,6 @@
+POST http://localhost:8915/resources?userName=测试数据&age=12&id=55
+Accept: */*
+Cache-Control: no-cache
+
+###
+
